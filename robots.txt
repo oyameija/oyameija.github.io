@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oyameija.github.io/DqW/sitemap_index.txt
+Sitemap: https://oyameija.github.io/Idn/sitemap_index.txt
+Sitemap: https://oyameija.github.io/VcF/sitemap_index.txt
+Sitemap: https://oyameija.github.io/cfI/sitemap_index.txt
